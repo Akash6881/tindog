@@ -64,8 +64,65 @@ h3{
     font-size: large;
 }
 
+h2{
+    font-size: 3rem;
+    line-height: 1.5;
+    margin-bottom: 5%;
+}
+
 
 .para-middle{
     color: #8f8f8f;
     font-size: 13px;
+}
+
+
+
+/* Testimonial section */
+
+
+#testimonials{
+    background-color: #ef8172;
+    text-align: center;
+    color: white;
+
+}
+
+.carousel-inner{
+    padding: 7% 15%;
+}
+
+.testimonial-image{
+    border-radius : 100%;
+    width: 10%;
+    margin-right: 30px;
+
+}
+
+/* Press Section */
+
+#press{
+    text-align: center;
+    background-color: #ef8172;
+}
+
+.press-image{
+    /* margin-bottom: 2%; */
+
+    width: 10%;
+    margin : 0px 20px 2% 20px;
+}
+
+
+/* Pricing section */
+
+
+#pricing{
+
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-colum{
+    padding: 3% 2%;
 }
